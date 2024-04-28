@@ -57,6 +57,7 @@ const Input = ({ addRow }) => {
       </div>
     </div>
   );
+  
 };
 
 export default Input;

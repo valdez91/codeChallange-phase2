@@ -1,4 +1,3 @@
-
 import './App.css';
 import Header from './components/Header'; 
 import Table from './components/Table';
@@ -57,5 +56,5 @@ function App() {
     </div>
   );
 }
-// Export the App component
+
 export default App;
