@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import Table from './Table'; // Import the Table component
-
+// Define the Input component
 const Input = ({ addRow }) => {
+  // Define a state variable for the input data and its setter function
   const [inputData, setInputData] = useState({
     date: '',
     description: '',
